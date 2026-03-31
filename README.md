@@ -89,6 +89,4 @@ pip install ultralytics opencv-python matplotlib numpy pandas
 
 Feel free to fork this repo and improve it! Pull requests are welcome.
 
----
-* Or convert this into a **proper GitHub project description + demo GIF**
 
